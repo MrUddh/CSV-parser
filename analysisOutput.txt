@@ -1,0 +1,4 @@
+Average Number of Exposures: 5.963696369636963
+Min and Max Time in View: {"min":2,"max":1614}
+Answer Occurrences: {"1":60,"2":106,"3":86,"4":5,"5":46}
+Peak Response Hour: 8:00
